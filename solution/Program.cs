@@ -28,4 +28,4 @@ void PrintArray(string[] array)
 }
 
 ArraySorting(array, SortedArray);
-PrintArray(SortedArray); //вывод отсортированного массива
+PrintArray(SortedArray); 
